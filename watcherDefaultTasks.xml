@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="fmt $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -25,7 +25,7 @@
       <option name="workingDir" value="" />
       <envs pass-parent-envs="false">
         <env name="GOROOT" value="$GOROOT$" />
-        <env name="GOPATH" value="$GOPATH$" />
+        <env name="GOPATH" value="/Users/njohnson/jetbrains/go" />
         <env name="PATH" value="$GoBinDirs$" />
       </envs>
     </TaskOptions>
