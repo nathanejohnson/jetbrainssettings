@@ -2,7 +2,4 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
-  <component name="Go">
-    <option name="formatOnSave" value="GOFMT" />
-  </component>
 </application>
