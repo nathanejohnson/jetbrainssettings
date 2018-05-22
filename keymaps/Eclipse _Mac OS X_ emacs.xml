@@ -78,4 +78,7 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
 </keymap>
