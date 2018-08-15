@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="tmpl" type="Go template" />
-      <mapping ext="example" type="TOML file" />
-    </extensionMap>
-  </component>
-</application>
