@@ -42,6 +42,9 @@
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="end" />
@@ -74,5 +77,8 @@
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
 </keymap>

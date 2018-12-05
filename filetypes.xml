@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="example" type="TOML file" />
+      <mapping ext="tmpl" type="Go template" />
+    </extensionMap>
+  </component>
+</application>
