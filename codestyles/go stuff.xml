@@ -1,1 +1,7 @@
-<code_scheme name="go stuff" />
+<code_scheme name="go stuff" version="173">
+  <GoCodeStyleSettings>
+    <option name="MOVE_ALL_IMPORTS_IN_ONE_DECLARATION" value="true" />
+    <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
+    <option name="GROUP_STDLIB_IMPORTS" value="true" />
+  </GoCodeStyleSettings>
+</code_scheme>
