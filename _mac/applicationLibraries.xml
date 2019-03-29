@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="base64" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_akalin_jsbn_v1.4_base64.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_akalin_jsbn_v1.4_base64.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="jsbn" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -8,6 +20,18 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_akalin_jsbn_v1.4_jsbn.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="prng4" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_akalin_jsbn_v1.4_prng4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_akalin_jsbn_v1.4_prng4.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
