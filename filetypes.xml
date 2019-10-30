@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="tmpl" type="Go template" />
       <mapping pattern="nomad-jobspec.tmpl" type="HCL" />
-      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -15,7 +15,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="example" type="TOML file" />
-      <mapping ext="tmpl" type="Go template" />
     </extensionMap>
   </component>
 </application>
