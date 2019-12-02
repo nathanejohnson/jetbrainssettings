@@ -1,12 +1,6 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-  </component>
   <component name="Go">
     <option name="detectGoPackageFromClipboard" value="false" />
     <option name="showDocumentationInParameterPopup" value="true" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
