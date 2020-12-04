@@ -1,6 +1,5 @@
 <templateSet group="Go">
   <template name="printf" value="fmt.Printf(&quot;$END$&quot;,$VAR$)" description="printf" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
