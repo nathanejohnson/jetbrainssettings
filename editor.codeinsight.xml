@@ -3,4 +3,9 @@
     <option name="detectGoPackageFromClipboard" value="false" />
     <option name="showDocumentationInParameterPopup" value="true" />
   </component>
+  <component name="GoFoldingSettings">
+    <option name="isOneLineReturns" value="false" />
+    <option name="isOneLinePanics" value="false" />
+    <option name="isFmtStrings" value="false" />
+  </component>
 </application>
