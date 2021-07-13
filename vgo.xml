@@ -1,5 +1,17 @@
 <application>
   <component name="vgo">
+    <environment>
+      <map>
+        <entry key="GOPROXY">
+          <value>
+            <list>
+              <option value="direct GOPRIVATE=bitbucket.ena.net,github.com/gammazero" />
+              <option value="direct" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </environment>
     <proxies>
       <list>
         <option value="direct" />
