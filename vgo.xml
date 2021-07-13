@@ -2,11 +2,18 @@
   <component name="vgo">
     <environment>
       <map>
+        <entry key="GOPRIVATE">
+          <value>
+            <list>
+              <option value="GOPRIVATE=bitbucket.ena.net,github.com/gammazero" />
+            </list>
+          </value>
+        </entry>
         <entry key="GOPROXY">
           <value>
             <list>
-              <option value="direct GOPRIVATE=bitbucket.ena.net,github.com/gammazero" />
               <option value="direct" />
+              <option value="direct GOPRIVATE=bitbucket.ena.net,github.com/gammazero" />
             </list>
           </value>
         </entry>
